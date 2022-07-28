@@ -4,10 +4,13 @@
 }
 .bg-img-one {
     background-image: url("./img/cover/cover-1.png");
+    background-size: cover;
    }
 .bg-img-two {
     background-image: url("./img/cover/cover-2.jpg");
+    background-size: cover;
    }
 .bg-img-three {
     background-image: url("./img/cover/cover-3.jpg");
+    background-size: cover;
    }
