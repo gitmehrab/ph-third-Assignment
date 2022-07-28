@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .bg-img-one {
     background-image: url("./img/cover/cover-1.png");
    }
